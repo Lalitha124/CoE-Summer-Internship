@@ -1,4 +1,5 @@
-Medical Image Enhancement with Autoencoder
+#Medical Image Enhancement with Autoencoder
+
 This repository contains a Python project that uses autoencoder models to enhance medical images. The project includes different versions of enhanced autoencoder architectures with techniques like residual connections and SSIM-based loss functions to improve model performance on image quality.
 
 Project Overview
